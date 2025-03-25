@@ -8,6 +8,7 @@ class Devsecops2ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
